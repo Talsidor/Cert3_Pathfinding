@@ -28,7 +28,7 @@ public class Node : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		ren = GetComponentInChildren<Renderer>();
+		z = 0;
 	}
 	
 	// Update is called once per frame
