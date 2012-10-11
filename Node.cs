@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Node : MonoBehaviour {
 	
-	public int x,y;
+	public int x,y,z;
 	public Material red,green;
 	Renderer ren;
 	public bool impassible;
